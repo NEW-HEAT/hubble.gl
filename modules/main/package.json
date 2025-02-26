@@ -1,6 +1,6 @@
 {
   "name": "hubble.gl",
-  "version": "1.4.0",
+  "version": "2.0.0-alpha",
   "description": "hubble.gl is an animation and video capture library for vis.gl in the browser",
   "license": "MIT",
   "type": "module",
